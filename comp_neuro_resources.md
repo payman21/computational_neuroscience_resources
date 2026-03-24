@@ -114,6 +114,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Society for Neuroscience (SfN)](https://www.sfn.org/meetings)
 
 ## 📰 Journals & News
+- NEW: [Nature Progress Brain Health](https://www.nature.com/natprogbrainhealth/)
 - [Nature Neuroscience](https://www.nature.com/neuro/)
 - [Nature Reviews Neuroscience](https://www.nature.com/nrn/)
 - [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)
