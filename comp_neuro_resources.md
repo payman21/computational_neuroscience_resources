@@ -133,3 +133,5 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Neuroinformatics Unit (NIU)](https://neuroinformatics.dev/) - Gatsby Unit software development.
 - [NeuroML](https://neuroml.org/) - Standards for detailed models of neural systems.
 - [NeuroRSE](https://neurorse.flatironinstitute.org/) - Flatiron Institute Center for Computational Neuroscience.
+- [Brain-Score](https://www.brain-score.org/) - Democratizing the Search for Scientific Models of Natural Intelligence
+
