@@ -86,7 +86,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Neuroscience for Machine Learners](https://neuro4ml.github.io/) - Short course for ML backgrounds.
 - [Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0) - David Silver (DeepMind) on YouTube.
 - [Short Courses and Summer Schools List](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364) - Spreadsheet of various Comp Neuro/MEEG courses.
-- [Show Me the Brain](https://showmethebrain.com/) - Show Me the Brain!! (SMtB) is a digital system for interactive graphics that is designed to support instruction in neuroanatomy and neuroscience.  
+- [Show Me the Brain](https://showmethebrain.com/) - Show Me the Brain!! (SMtB) is a digital system for interactive graphics that is designed to support instruction in neuroanatomy and neuroscience.
+- [EEGMachine](https://micahetter.me/EEGMachine/) - EEG learning tool
 
 ### Guides & General Resources
 - [Awesome Computational Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) - Curated list of resources.
