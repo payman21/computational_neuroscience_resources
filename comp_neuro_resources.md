@@ -65,6 +65,9 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Neurodesk](https://www.neurodesk.org/) - A flexible and scalable data analysis environment (containerized).
 - [Subcortex visualization software](https://anniegbryant.github.io/subcortex_visualization/) - Generate two-dimensional subcortex images.
 - [brainlife](https://brainlife.io/about/) - Open-source, secure reproducible neuroscience analysis platform.
+- [subcortex_visualization](https://github.com/anniegbryant/subcortex_visualization/tree/6328e59f168f3ebd2396e709d89c1c82c1a7af3d) - A toolbox for custom data visualization in the subcortex and cerebellum
+- [ciftiTools](https://github.com/mandymejia/ciftiTools) - Brain rednering for cifti fMRI data
+- [RepoNeuroVis](https://github.com/sidchop/RepoNeuroVis) - A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations
 
 ## 🎓 Education & Learning
 
