@@ -68,6 +68,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [subcortex_visualization](https://github.com/anniegbryant/subcortex_visualization/tree/6328e59f168f3ebd2396e709d89c1c82c1a7af3d) - A toolbox for custom data visualization in the subcortex and cerebellum
 - [ciftiTools](https://github.com/mandymejia/ciftiTools) - Brain rednering for cifti fMRI data
 - [RepoNeuroVis](https://github.com/sidchop/RepoNeuroVis) - A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations
+- [NeuroMArVL](https://direct.mit.edu/netn/article/10/3/683/136328/NeuroMArVL-An-interactive-and-collaborative-web)  - An interactive and collaborative web-based tool for visualizing brain networks 
 
 ## 🎓 Education & Learning
 
