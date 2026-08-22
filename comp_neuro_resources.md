@@ -25,6 +25,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [THINGS-data](https://plus.figshare.com/collections/THINGS-data_A_multimodal_collection_of_large-scale_datasets_for_investigating_object_representations_in_brain_and_behavior/6161151) - Multimodal collection of large-scale datasets for investigating object representations.
 - [Zenodo](https://zenodo.org/) - Open Science platform for data sharing.
 - [3D Brain Atlas](https://neurotorium.org/tool/brain-atlas/) - Interactive brain atlas.
+- [Neuroscience Datasets]](https://datasets.neuro2.ai/) - Search for neuro datasets by modality
 
 ## 🛠️ Software, Code & Tools
 
