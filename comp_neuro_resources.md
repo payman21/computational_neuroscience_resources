@@ -70,7 +70,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [ciftiTools](https://github.com/mandymejia/ciftiTools) - Brain rednering for cifti fMRI data
 - [RepoNeuroVis](https://github.com/sidchop/RepoNeuroVis) - A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations
 - [NeuroMArVL](https://direct.mit.edu/netn/article/10/3/683/136328/NeuroMArVL-An-interactive-and-collaborative-web)  - An interactive and collaborative web-based tool for visualizing brain networks
-- [Tractography Visazualizer](https://amyleesterling.github.io/human-brain/somatotopy.html?areas=every&area=p10p&hemi=R&conn=1) - 
+- [Tractography Visazualizer](https://amyleesterling.github.io/human-brain/somatotopy.html?areas=every&area=p10p&hemi=R&conn=1)
+- [ggbrat](https://github.com/jorittmo/ggbrat) - Brain Atlases for ggplot2
 
 ## 🎓 Education & Learning
 
