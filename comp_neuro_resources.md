@@ -27,6 +27,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [3D Brain Atlas](https://neurotorium.org/tool/brain-atlas/) - Interactive brain atlas.
 - [Neuroscience Datasets](https://datasets.neuro2.ai/) - Search for neuro datasets by modality
 - [Elements of FMRI](https://torwager.github.io/elements-of-fmri-tutorials/) - Elements of Functional Magnetic Resonance Imaging, interactive tutorial
+- [nervous-system-atlas](https://github.com/aycibatuhan/nervous-system-atlas) - Clinical Neuroanatomy Atlas
 
 ## 🛠️ Software, Code & Tools
 
