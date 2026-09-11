@@ -49,6 +49,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [pynapple](https://pynapple-org.github.io/pynapple/) - Lightweight Python library for neurophysiological data analysis.
 - [torch_brain](https://github.com/neuro-galaxy/torch_brain) - Python library for various deep learning models designed for neuroscience.
 - [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) - a ggplot2 extension that helps create publication ready figures for the life sciences.
+- [netneurotools](https://www.nature.com/articles/s41596-026-01446-7) - From Misic lab, a trainee-oriented approach to network neuroscience
 
 ### Modeling & Simulation
 - [Brain Dynamics Toolbox](https://bdtoolbox.org/) - MATLAB software for simulating bespoke dynamical systems.
