@@ -76,6 +76,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Tractography Visazualizer](https://amyleesterling.github.io/human-brain/somatotopy.html?areas=every&area=p10p&hemi=R&conn=1)
 - [ggbrat](https://github.com/jorittmo/ggbrat) - Brain Atlases for ggplot2
 - [Every area of the human cortex](https://amyleesterling.github.io/human-brain/somatotopy.html?areas=every) - very cool interactive brain visualizaions
+- [BrainRosetta](https://github.com/iPsych/BrainRosetta)- A browser-based brain atlas explorer with hierarchical parcellations and coordinate lookup.
 
 ## 🎓 Education & Learning
 
