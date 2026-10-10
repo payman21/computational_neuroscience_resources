@@ -113,6 +113,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [NeuroStars](https://neurostars.org/) - Q&A forum for neuroscience researchers.
 - [The Routledge Handbook of the Computational Mind](https://www.taylorfrancis.com/books/edit/10.4324/9781315643670/routledge-handbook-computational-mind-mark-sprevak-matteo-colombo) - Book: An overview of computational approaches.
 - [Experimentology](https://experimentology.io/) - An Open Science Approach to Experimental Psychology Methods
+- [Neuro Funding Finder](https://www.thetransmitter.org/neuroscience-grants-funding-finder) - Discover grants, fellowships and funding opportunities for neuroscience research at all career stages.
 
 ### Creating Scientific Figures
 - [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html) - Stats, programming and plotting courses.
