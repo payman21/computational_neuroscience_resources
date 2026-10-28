@@ -61,6 +61,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [WhoBPyT](https://github.com/GriffithsLab/whobpyt) - Whole-Brain Modelling in PyTorch.
 - [fast-slow brain network model](https://github.com/BrainModes/fast-slow/) - Code from *Learning how network structure shapes decision-making*.
 - [Heterogenous Neural Model (HNM)](https://github.com/KevinAquino/HNM) - For large scale modelling of brain activity.
+- [ChatEEG](https://chateeg.com/) - AI-generated EEG records you can review like a real study. Built for EEG education.
 
 ### Visualization & Platforms
 - [Connectome Workbench](https://www.humanconnectome.org/software/connectome-workbench) - Visualization and discovery tool for neuroimaging data.
