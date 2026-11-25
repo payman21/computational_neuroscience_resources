@@ -102,7 +102,8 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [Short Courses and Summer Schools List](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364) - Spreadsheet of various Comp Neuro/MEEG courses.
 - [Show Me the Brain](https://showmethebrain.com/) - Show Me the Brain!! (SMtB) is a digital system for interactive graphics that is designed to support instruction in neuroanatomy and neuroscience.
 - [EEGMachine](https://micahetter.me/EEGMachine/) - EEG learning tool
-- [BrainMap](https://seminars.martinos.org/brainmap/) - The BrainMap seminar series is offered by and for researchers using neuroimaging to study brain structure and function. 
+- [BrainMap](https://seminars.martinos.org/brainmap/) - The BrainMap seminar series is offered by and for researchers using neuroimaging to study brain structure and function.
+- [Neuroscience Reading Map](https://docs.google.com/document/d/1Uqfq9k9riq14w8_snhvbrfIaC2yArMXUTLbXuqpMhbY/edit?tab=t.0) - Reading list: A fast orientation to neuroscience research
 
 ### Guides & General Resources
 - [Awesome Computational Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) - Curated list of resources.
